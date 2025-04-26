@@ -1,0 +1,173 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png"group-title="",BFM 2
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png"group-title="",20 MINUTES TV IDF
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png"group-title="",LE FIGARO LIVE
+https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/fa5bf751-4c1a-465b-97bd-1fa62e8a7d00/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png"group-title="",AFRICANEWS FR
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png"group-title="",BFM TV (backup)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png"group-title="",BFM TV (backup)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png"group-title="",BFM TV (backup)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png"group-title="",BFM TV (backup)
+https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png"group-title="",BFM TV (backup)
+https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png"group-title="",BFM TV (backup)
+https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png"group-title="",BFM 2 (backup)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png"group-title="",BFM 2 (backup)
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png"group-title="",BFM 2 (backup)
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png"group-title="",CHÉRIE 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png"group-title="",RMC STORY
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png"group-title="",TF1 (backup)
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png"group-title="",TF1 (backup)
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png"group-title="",TF1 (backup)
+http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png"group-title="",RMC DÉCOUVERTE
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png"group-title="",GÉNÉRATIONS TV
+https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPzb19X/melody.png"group-title="",MÉLODY
+https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png"group-title="",L'ÉQUIPE LIVE 1
+https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png"group-title="",L'ÉQUIPE LIVE 2
+https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"group-title="",L'ÉQUIPE TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp"group-title="",SPORT EN FRANCE
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png"group-title="",VEVO POP
+https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lv1qzgyv0ee39/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WFQ0NCF/vevohprb.png"group-title="",VEVO HP RB
+https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CtD77v/vevo90.png"group-title="",VEVO 90 00
+https://d2q982f39qtdzh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-np9jnkbfjxrog/Vevo90and2000_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png"group-title="",TV5MONDE VOYAGE
+https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png"group-title="",ALLO CINÉ
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png"group-title="",RDI CANADA
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png"group-title="",TV5MONDE VOYAGE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png"group-title="",ALLO CINÉ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10840
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhRGCbH/Brefcin.png"group-title="",BREF CINÉ
+https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJyNqdg/dieutv.png"group-title="",DIEU TV
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png"group-title="BS",NHK BS
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png"group-title="BS",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png"group-title="BS",BS11
+http://vthanh.utako.moe/BS11/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png"group-title="BS2",NHK BS4K
+http://luong.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"group-title="BS2",BS NTV
+http://luong.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg"group-title="BS2",BS Asahi
+http://luong.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png"group-title="BS2",BS TBS
+http://luong.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png"group-title="BS2",BS TV Tokyo
+http://luong.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png"group-title="BS2",BS Fuji
+http://luong.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png"group-title="BS2",WOWOW Prime
+http://luong.utako.moe/wprime/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png"group-title="BS2",WOWOW Cinema
+http://luong.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png"group-title="BS2",WOWOW Live
+http://luong.utako.moe/wlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png"group-title="General",France 2 (1080p)
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8RuRUQ.png"group-title="General",Le Figaro IDF (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png"group-title="Kansai",MBS
+http://luong.utako.moe/mbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png"group-title="Kansai",ABC
+http://luong.utako.moe/abc/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png"group-title="Kansai",TV Osaka
+http://luong.utako.moe/tvo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"group-title="Kansai",Kansai TV
+http://luong.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png"group-title="Kansai",ytv
+http://luong.utako.moe/ytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png"group-title="Kansai",KBS
+http://luong.utako.moe/kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png"group-title="Kansai",SUN
+http://luong.utako.moe/suntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DED8EXs.png"group-title="News",LCI (720p)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png"group-title="News",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png"group-title="News",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"group-title="Tokyo",NHK G
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png"group-title="Tokyo",NHK E
+http://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png"group-title="Tokyo",NTV
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png"group-title="Tokyo",TBS
+http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"group-title="Tokyo",Fuji TV
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png"group-title="Tokyo",TV Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png"group-title="Tokyo",TV Tokyo
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png"group-title="Tokyo",TOKYO MX1
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164626707363_81.png"group-title="電影",[HD]爱尔达影剧
+https://stream1.freetv.fun/ai-er-da-ying-ju-2.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722110033521210_50.png"group-title="電影",[BD]东森戏剧
+https://stream1.freetv.fun/dong-sen-xi-ju-1.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105858673463_13.png"group-title="電影",[BD]东森电影[geo-blocked]
+https://stream1.freetv.fun/dong-sen-dian-ying-7.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/31/20170531221343109897_42.png"group-title="電影",[BD]HBO
+https://stream1.freetv.fun/hbo-14.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/31/20170531221343109897_42.png"group-title="電影",[BD]HBO
+https://stream1.freetv.fun/hbo-9.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png"group-title="電影",[BD]Hollywood
+https://stream1.freetv.fun/hollywood-4.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png"group-title="電影",[BD]hollywood
+https://stream1.freetv.fun/hollywood-5.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105525808337_70.png"group-title="電影",[BD]纬来戏剧
+https://stream1.freetv.fun/wei-lai-xi-ju-4.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305142255327491_59.png"group-title="新聞",[HD]TVBS新聞台
+https://stream1.freetv.fun/tvbsxin-wen-10.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313164101367758_71.png"group-title="知識",[BD]Discovery HD
+https://stream1.freetv.fun/discovery-7.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg"group-title="知識",[HD]BBC Earth
+https://stream1.freetv.fun/bbc-earth-12.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg"group-title="綜合",[BD]华视
+https://stream1.freetv.fun/hua-shi-4.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png"group-title="綜合",[BD]中視
+https://stream1.freetv.fun/zhong-shi-6.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115233042115640_98.jpg"group-title="綜合",[BD]中天综合
+https://stream1.freetv.fun/zhong-tian-zong-he-6.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114210645647968_28.jpg"group-title="綜藝",[BD]中天娱乐
+https://stream1.freetv.fun/zhong-tian-yu-le-3.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114210645647968_28.jpg"group-title="綜藝",[BD]中天娱乐
+https://stream1.freetv.fun/zhong-tian-yu-le-6.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720154758414370_68.png"group-title="綜藝",[BD]八大第一
+https://stream1.freetv.fun/ba-da-di-yi-1.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155149409828_90.png"group-title="綜藝",[BD]八大娱乐
+https://stream1.freetv.fun/ba-da-yu-le-1.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105459178241_22.png"group-title="綜藝",[BD]纬来日本
+https://stream1.freetv.fun/wei-lai-ri-ben-4.ctv
